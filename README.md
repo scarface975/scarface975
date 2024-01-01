@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aditya Ithamraju
-- 👀 I’m interested in Data Management.
-- 🌱 I’m currently learning about Data Structures.
-- 📫 You can reach me at adityaithamraju@gmail.com
+- 👀 I’m interested in IoT, Automation, Integrated Circuits, Robotics.
 
 <!---
 scarface975/scarface975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
