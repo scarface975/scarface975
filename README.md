@@ -77,7 +77,7 @@ An **IoT-based monitoring system** for real-time water level tracking and manage
 ---
 
 ### 🔬 [QFLARE](https://github.com/Aditya-Ithamraju/QFLARE)
-Contributing to an advanced research project involving quantum computing frameworks and LaTeX documentation. Working fork for experimental features and improvements.
+Quantum-safe federated learning system combining post-quantum cryptography, differential privacy, and edge-based intrusion resilience.
 
 **Tech Stack:** `Python` `TeX` `TypeScript` `C` `PostgreSQL`  
 **License:** Apache 2.0
