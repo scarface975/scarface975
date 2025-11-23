@@ -14,7 +14,7 @@
 
 I'm a final-year **Electronics & Computer Engineering** student with a deep passion for bridging the gap between **hardware and software**. My journey in engineering has taken me through diverse domains—from embedded systems and robotics to cloud-native infrastructure and full-stack development. I thrive on learning new concepts quickly and applying them to solve real-world problems.
 
-- 🔭 Currently exploring: **Edge Computing, Container Orchestration, IoT Systems**
+- 🔭 Currently exploring: **Edge Computing, Cloud Computing, IoT Systems, Cryptography**
 - 🌱 Fast learner with hands-on experience in: **Python, C/C++, TypeScript, Rust**
 - 💡 Interests: **Embedded Systems, Distributed Systems, Robotics, Social Impact Tech**
 - 🎯 Open to: **Collaborations, Internships, and Challenging Projects**
