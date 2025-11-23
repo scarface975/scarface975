@@ -4,7 +4,7 @@
 
 ### Electronics & Computer Engineering Student | Hardware & Software Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/Aditya-Ithamraju?style=social)](https://github.com/Aditya-Ithamraju)
+[![GitHub followers](https://img.shields.io/github/followers/Aditya-Ithamraju?style=social)](https://github.com/scarface975)
 
 </div>
 
