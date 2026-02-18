@@ -134,6 +134,6 @@ A **comprehensive loan amortization calculator** with a user-friendly graphical 
   
 ### 💬 "Bridging Hardware and Software, One Project at a Time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Ithamraju&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=scarface975&color=brightgreen&style=flat-square)
 
 </div>
