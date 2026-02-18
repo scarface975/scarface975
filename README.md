@@ -99,16 +99,6 @@ A **comprehensive loan amortization calculator** with a user-friendly graphical 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarface975&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌟 Highlights
 
 - 🏗️ **Multi-domain Expertise:** From low-level embedded C/C++ to high-level distributed systems
