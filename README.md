@@ -45,7 +45,7 @@ I'm a final-year **Electronics & Computer Engineering** student with a deep pass
 
 ## 💼 Featured Projects
 
-### 🐳 [Lightweight Container Orchestration](https://github.com/Aditya-Ithamraju/Lightweight_container_orchestration)
+### 🐳 [Lightweight Container Orchestration](https://github.com/scarface975/Lightweight_container_orchestration)
 A **Kubernetes-like container orchestration system** designed for edge computing environments with energy-aware scheduling, real-time analytics, and visual workload distribution across heterogeneous nodes.
 
 **Tech Stack:** `Python` `Docker` `Shell` `PowerShell`  
@@ -53,7 +53,7 @@ A **Kubernetes-like container orchestration system** designed for edge computing
 
 ---
 
-### 🤖 [Teleoperated Bomb Disposal Bot](https://github.com/Aditya-Ithamraju/teleoperated_bomb_disposal_bot)
+### 🤖 [Teleoperated Bomb Disposal Bot](https://github.com/scarface975/teleoperated_bomb_disposal_bot)
 A remotely controlled bomb disposal robot featuring a **3-DOF robotic arm**, mobile base, and web-based control interface. Designed for hazardous environment operations with real-time telemetry.
 
 **Tech Stack:** `C` `C++` `JavaScript` `HTML/CSS` `ESP32`  
@@ -61,7 +61,7 @@ A remotely controlled bomb disposal robot featuring a **3-DOF robotic arm**, mob
 
 ---
 
-### 🍲 [Food Redistribution Network](https://github.com/Aditya-Ithamraju/food_redistribution_network_front)
+### 🍲 [Food Redistribution Network](https://github.com/scarface975/food_redistribution_network_front)
 A modern **web application** connecting food donors with communities in need, reducing food waste while addressing hunger. Features real-time matching, geolocation services, and analytics dashboard.
 
 **Tech Stack:** `TypeScript` `React` `CSS` `JavaScript`  
@@ -69,14 +69,14 @@ A modern **web application** connecting food donors with communities in need, re
 
 ---
 
-### 💧 [Water Level Monitoring System](https://github.com/Aditya-Ithamraju/Water_Level_Monitoring_System)
+### 💧 [Water Level Monitoring System](https://github.com/scarface975/Water_Level_Monitoring_System)
 An **IoT-based monitoring system** for real-time water level tracking and management. Utilizes sensors and microcontrollers for automated alerts and data logging.
 
 **Tech Stack:** `C++` `Arduino/ESP32`
 
 ---
 
-### 🔬 [QFLARE](https://github.com/Aditya-Ithamraju/QFLARE)
+### 🔬 [QFLARE](https://github.com/scarface975/QFLARE)
 Quantum-safe federated learning system combining post-quantum cryptography, differential privacy, and edge-based intrusion resilience.
 
 **Tech Stack:** `Python` `TeX` `TypeScript` `C` `PostgreSQL`  
@@ -84,10 +84,18 @@ Quantum-safe federated learning system combining post-quantum cryptography, diff
 
 ---
 
-### 🦀 [IDE Testbed](https://github.com/Aditya-Ithamraju/ide_testbed)
+### 🦀 [IDE Testbed](https://github.com/scarface975/ide_testbed)
 Exploring **Rust-based** development environments and tooling. Testbed for IDE features, language servers, and developer experience improvements.
 
 **Tech Stack:** `Rust` `Python` `SCSS` `Docker`
+
+---
+
+### 💰 [EMI Calculator & Export Tool](https://github.com/scarface975/EMI-Calculator-Export-Tool)
+A **comprehensive loan amortization calculator** with a user-friendly graphical interface built with Python and tkinter. Calculate monthly EMI, check loan affordability, view detailed amortization schedules, and export data to CSV.
+
+**Tech Stack:** `Python`
+**License:** Apache 2.0
 
 ---
 
@@ -95,7 +103,7 @@ Exploring **Rust-based** development environments and tooling. Testbed for IDE f
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Ithamraju&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarface975&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
